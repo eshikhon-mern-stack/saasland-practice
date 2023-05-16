@@ -52,3 +52,46 @@ header{
 .hero p{
     font-size: 20px;
 }
+
+/* Blog Section Start */
+.details-info{
+    margin: 100px 0;
+    overflow: hidden;
+}
+.details-info .details{}
+.details-info .details .content{
+    width: 40%;
+    float: left;
+    margin-right: 10%;
+}
+.details-info .details .content img{}
+.details-info .details .content h2{
+    font-size: 40px;
+    margin: 10px 0;
+}
+.details-info .details .content p{
+    margin-top: 20px;
+}
+.details-info .details .image{width: 50%;float: left;}
+.details-info .details .content button{
+    
+margin: 20px 0;
+    
+padding: 11px 15px;
+    
+color: white;
+    
+background: #7f56f5;
+    
+text-transform: uppercase;
+    
+font-weight: 700;
+    
+letter-spacing: 3px;
+    
+border: none;
+    
+border-radius: 10px;
+    
+cursor: pointer;
+}
