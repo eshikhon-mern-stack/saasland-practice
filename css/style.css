@@ -95,3 +95,32 @@ border-radius: 10px;
     
 cursor: pointer;
 }
+
+footer{
+    background-color: #473db438;
+    padding: 100px;
+}
+.contact-item{}
+.contact-item .footer-item{
+    width: 25%;
+    float: left;
+}
+.contact-item img{
+    margin: 0 0;
+    margin-bottom: 20px;
+}
+.contact-item .footer-item img{}
+.contact-item .footer-item p{}
+.contact-item .footer-item li{
+    list-style: none;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 20px;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+#bg-image{
+    width: 100%;
+}
